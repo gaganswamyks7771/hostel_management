@@ -1,0 +1,28 @@
+#feedback1{
+background-color: rgba(234, 240, 234, 0.801);
+margin-top: 80px;
+margin-left: 250px;
+height: 550px;
+width: 1000px;
+border: solid rgba(37, 34, 34, 0.438);
+border-radius: 10px;
+}
+#bu{
+    margin-left: 40%;
+     margin-top: 20px;
+      padding-right: 40px;
+       padding-left: 40px;
+        border-radius: 10px;
+        border-color: solid red;
+        background-color: rgba(247, 250, 246, 0.993);
+}
+#bu:hover{
+    color:white;
+    background-color:rgb(58, 231, 58);
+    }
+    .color_hover:hover{
+        border-radius: 10px;
+      background-color: rgb(111, 138, 135);
+     font-size: 20px;
+     }
+    

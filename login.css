@@ -1,0 +1,47 @@
+#login_look{
+    background-color: rgba(195, 219, 219, 0.767) ;
+    border-radius: 50px;
+
+    width: 35%;
+    height: 450px;
+    margin-top: 13%;
+    margin-left: 30%;
+  
+}
+#sub{
+    background-color: rgb(246, 241, 248);
+     margin-top: 20px;
+     margin-left: 35%;
+     padding-left: 10%;
+     padding-right: 10%;
+     padding-bottom: 10px;
+     border-radius: 30px;
+     border: solid whitesmoke;
+     
+     
+}
+
+#sub:hover{
+font-size: 20px;
+background-color:rgb(76, 57, 94);
+color: white;
+}
+#img_sytle{
+   margin-top: -7%;
+   margin-left: 38%;
+   width: 120px;
+   height: 120px;
+   border-radius: 50%;
+   border: solid #f8f5f9;
+   border-bottom: hotpink;
+
+}
+
+  #img_sytle:hover{
+  transform: scale(1.1);
+}
+.color_hover:hover{
+    border-radius: 10px;
+  background-color: rgb(111, 138, 135);
+ font-size: 20px;
+ }

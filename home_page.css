@@ -1,0 +1,43 @@
+#div_id_1{
+     
+    background-image: url('hostel_img1.jpg');
+    background-attachment: fixed;
+    height: 800px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#div_id_1_1{
+    background-color: rgba(81, 182, 115, 0.452);
+    height: 300px;
+  border-radius:50px ;
+  
+}
+#div_id_navbar{
+background-color: rgb(15, 53, 71);
+}
+.color_hover:hover{
+   border-radius: 10px;
+ background-color: rgb(111, 138, 135);
+font-size: 20px;
+}
+
+#div_id_2{
+     background-image:url('hostel_img2.jpg');
+   height: 800px; 
+   background-attachment: fixed;
+}
+#div_id_2_1,.div_cls_2_1{
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    background-color: white;
+    
+    color: rgb(0, 0, 0);
+}
+.div_cls_2_1:hover{
+    
+    font-size: 25px;
+    
+}
+

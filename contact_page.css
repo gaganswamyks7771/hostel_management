@@ -1,0 +1,52 @@
+.contact_details{
+color: rgb(73, 211, 130), #db3340;
+margin-top: 2%;
+font-size: 40px;
+font-weight: 400;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+hr{
+    border: 3px solid green;
+    border-radius: 5px;
+}
+.details1{
+
+    background-color: #db3340;
+    color: ghostwhite;
+    width: 100px;
+    height: 350px;
+    margin-left:3%;
+    margin-top: 5%;
+    
+}
+#map-container{
+
+    background-color: #c49b9e;
+    color: ghostwhite;
+    width: 100px;
+    height: 350px;
+    margin-left:3%;
+    margin-top: 5%;
+    border-radius: 10px;
+    
+}
+#details11{
+    border: solid 2px rgb(190, 204, 212);
+    border-radius: 40px;
+}
+#img_cont_id{
+    margin-top:10px;
+    height: 150px;
+    border-radius: 20%;
+    margin-left: 30%;
+}
+tr{
+    
+    background-color: brown;
+}
+.color_hover:hover{
+    border-radius: 10px;
+  background-color: rgb(111, 138, 135);
+ font-size: 20px;
+ }

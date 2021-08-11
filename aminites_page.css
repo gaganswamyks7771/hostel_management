@@ -1,0 +1,38 @@
+.color_hover:hover{
+    border-radius: 10px;
+  background-color: rgb(139, 185, 181);
+ font-size: 20px;
+ }
+ #myVideo {
+    position: fixed;/*if i make position relative the content wil scroll*/
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+    background-attachment: fixed;
+  }
+  #hs {
+    position: fixed;
+    top: 10%;
+    background: rgba(255, 255, 255, 0.26);
+    color: #ffffff;
+    left: 35%;
+    padding: 20px;
+    border-radius: 30px;
+  
+  }  
+  .images{
+    position: relative;
+    opacity: 80%;
+    
+   
+  }
+  .images:hover{
+      opacity: 100%;
+      box-shadow: cornflowerblue;
+      transform: scale(1.1);
+  }
+  img{
+      display: flexbox;
+  }
+  
